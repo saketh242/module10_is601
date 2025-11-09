@@ -1,0 +1,3 @@
+CVE-2025-43859    # h11
+CVE-2024-33663    # python-jose
+CVE-2025-62727    # starlette
